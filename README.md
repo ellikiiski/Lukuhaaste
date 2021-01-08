@@ -1,2 +1,3 @@
-# Lukuhaaste
-Apuväline Helmet-lukuhaasteen suorittamiseen
+## Lukuhaaste
+
+Pikkusofta helmet lukuhaasteen suorituksen avustamiseksi
