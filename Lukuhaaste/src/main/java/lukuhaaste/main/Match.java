@@ -1,14 +1,19 @@
 
 package lukuhaaste.main;
 
-public class Match {
+public class Match implements Comparable<Match>{
     private Book book;
     private Category category;
-    private int match;
+    public int match;
     
-    public Match(Book book, Category category) {
+    public Match(Book book, Category category, int match) {
         this.book = book;
         this.category = category;
-        this.match = 0;
+        this.match = match;
+    }
+
+    @Override
+    public int compareTo(Match m) {
+        return this.match - m.match;
     }
 }

@@ -10,7 +10,5 @@ public class Book {
         this.id = 0;
         this.name = name;
         this.author = author;
-    }
-    
-    
+    }    
 }
