@@ -7,6 +7,11 @@ public class Main {
     
     public static void main(String[] args) {
         
+        
+        Control control = new Control();
+        
+        
+        /*
         /// Käynnistää graafisen käyttöliittymän
         
         new Thread() {
@@ -15,6 +20,8 @@ public class Main {
                 javafx.application.Application.launch(GUI.class);
             }
         }.start();
+
+        */
     }
     
 }

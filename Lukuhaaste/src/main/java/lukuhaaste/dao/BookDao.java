@@ -6,7 +6,7 @@ import lukuhaaste.main.Book;
 
 public interface BookDao {
     
-    Book create(Book book) throws Exception;
+    Book create(String name, String author) throws Exception;
     
     Book findByName(String name);
 

@@ -12,6 +12,7 @@ public class Organizer {
     }
     
     public HashMap<Integer, Match> organize(ArrayList<Match> matches) {
+        // alustava karvalakkiversio, parempi algo myöhemmin
         for (Match match : matches) {
             int i = match.getCategoryId();
             if (!bestMatches.containsKey(i)) {
