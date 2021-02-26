@@ -5,13 +5,8 @@ import lukuhaaste.ui.GUI;
 
 public class Main {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) {        
         
-        
-        Control control = new Control();
-        
-        
-        /*
         /// Käynnistää graafisen käyttöliittymän
         
         new Thread() {
@@ -21,7 +16,6 @@ public class Main {
             }
         }.start();
 
-        */
     }
     
 }

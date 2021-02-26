@@ -1,0 +1,50 @@
+1	Kirjassa kirjoitetaan päiväkirjaa
+2	Kirjan on kirjoittanut opettaja
+3	Historiallinen romaani
+4	Joku kertoo kirjassa omista muistoistaan
+5	Kirja liittyy tv-sarjaan tai elokuvaan
+6	Kirja kertoo rakkaudesta
+7	Kirjassa on kaveriporukka
+8	Kirja, jossa maailma on muutoksessa
+9	Kirjailijan etunimi ja sukunimi alkavat samalla kirjaimella
+10	Kirjan nimessä on numero
+11	Kirja kertoo köyhyydestä
+12	Kirjassa ollaan metsässä
+13	Kirja liittyy teatteriin, oopperaan tai balettiin
+14	Kirja on osa kirjasarjaa
+15	Kirjassa on jotain samaa kuin omassa elämässäsi
+16	Kirjassa eletään ilman sähköä
+17	Kirjan nimessä on kirjan päähenkilön nimi
+18	Kirja kertoo sateenkaariperheestä
+19	Kirjassa leikitään
+20	Kirjassa on ammatti, jota ei enää ole tai joka on harvinainen
+21	Kirja liittyy johonkin vuodenaikaan
+22	Kirjassa ajetaan polkupyörällä
+23	Kirja, jota luet ulkona
+24	Kirjan nimessä on kysymysmerkki tai huutomerkki
+25	Kirjan on kirjoittanut kaksi kirjailijaa
+26	Elämäkerta henkilöstä, joka on elossa
+27	Kirjan päähenkilö on eläin
+28	Kirja, jonka lukemisesta on sinulle hyötyä
+29	Kirjan henkilön elämä muuttuu
+30	Kirja on julkaistu kirjoittajan kuoleman jälkeen
+31	Jännityskirja tai dekkari 
+32	Kirjan kansikuvassa tai takakannen tekstissä on kissa
+33	Kirjassa opetetaan jokin taito
+34	Kirjassa tarkkaillaan luontoa
+35	Kirja, jonka ilmestymistä olet odottanut
+36	Kirjassa liikutaan ajassa
+37	Kirjan henkilön työ on tärkeä tarinassa
+38	Kirja on käännetty hyvin
+39	Kirjassa kuunnellaan musiikkia
+40	Kirjassa kerrotaan eläinten oikeuksista
+41	Kirjassa matkustetaan junalla
+42	Satukirja
+43	Kirjassa ei kerrota sen päähenkilön nimeä
+44	Kirjassa on reseptejä
+45	Kirjan on kirjoittanut pohjoismainen kirjailija
+46	Kirjassa syödään herkkuja
+47	Ensimmäinen kahdesta kirjasta, jotka kertovat samasta aiheesta
+48	Toinen kahdesta kirjasta, jotka kertovat samasta aiheesta
+49	Kirja on julkaistu vuonna 2021
+50	Kirjaa on suositellut kirjaston työntekijä
