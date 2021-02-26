@@ -9,6 +9,8 @@ public interface BookDao {
     Book create(String name, String author) throws Exception;
     
     Book findByName(String name);
+    
+    Book findById(int id);
 
     ArrayList<Book> getAll();
     

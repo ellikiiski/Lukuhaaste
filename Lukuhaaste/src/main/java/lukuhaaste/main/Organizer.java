@@ -5,22 +5,15 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Organizer {
-    private HashMap<Integer, Match> bestMatches;
+    private HashMap<Integer, Book> bestMatches;
     
     public Organizer() {
         this.bestMatches = new HashMap<>();
     }
     
-    public HashMap<Integer, Match> organize(ArrayList<Match> matches) {
+    public HashMap<Integer, Book> organize(ArrayList<Book> matches) {
         // alustava karvalakkiversio, parempi algo myöhemmin
-        for (Match match : matches) {
-            int i = match.getCategoryId();
-            if (!bestMatches.containsKey(i)) {
-                bestMatches.put(i, match);
-            } else if (match.getMatchValue() > bestMatches.get(i).getMatchValue()) {
-                bestMatches.put(i, match);
-            }
-        }
+        //bestMatches.put(1, matches.get(0));
         return bestMatches;
     }
 }
